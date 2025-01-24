@@ -1,1 +1,2 @@
-gr
+Learn Python SQL.
+Have meeting with Rahul tomorrow.
